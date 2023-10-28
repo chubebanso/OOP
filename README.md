@@ -1,3 +1,2 @@
-# Hi!
-week 1 report: "https://docs.google.com/document/d/1iKIZT18OwLQU6FHsn7dl00icbU3JF0LchsbZMXx75L8/edit#" <br />
-week 1 source code: "https://github.com/ContaleS/OOP-lab/tree/lab-1"
+week 1:https://github.com/chubebanso/OOP.VN.20231-20215075.VuQuangHoangLam
+week2 :https://github.com/chubebanso/OOP.VN.20231-20215075.VuQuangHoangLam/tree/release/lab2
