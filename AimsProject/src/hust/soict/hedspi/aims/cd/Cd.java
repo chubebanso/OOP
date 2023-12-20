@@ -1,7 +1,7 @@
-package hust.soict.hedspi.aims.CD;
+package hust.soict.hedspi.aims.cd;
 import java.util.List;
 
-public class CD {
+public class Cd {
 	private int nbCD = 0;
 	public String getTitle() {
 		return title;
